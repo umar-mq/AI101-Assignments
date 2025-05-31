@@ -8,6 +8,7 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+Assignment6/
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -247,3 +248,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+Assignment6/grocery_store_assistant.py
